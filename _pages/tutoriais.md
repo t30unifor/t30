@@ -29,9 +29,9 @@ Vamos lá:
 2. Pelo computador ou navegar do celular vá para pessoal -> email -> criar conta
 3. Digite o nome de email que você quiser. A sua conta nome@edu.unifor.br vai estar disponível pelo gmail.com e funciona como qualquer outra conta google. A senha é a mesma da unifor online.
 4. A partir desse momento, seu email do Unifor Online vai ser o seu email unifor, então eu recomendo você adicionar essa conta de email onde você normalmente checa seu email, seja pelo celular, seja pelo conputador.
-{% include alert.html text="You can include alert boxes" %}
+{% include alert.html text="Agora, o seu email para o Unifor Online será o que você criou para sua conta. Para evitar confusões, adicione esse email no seu app de email ou abra-o com freqûencia" %}
 6. E pronto! A partir de agora você pode usar a biblioteca online e outros serviços
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDIxOTI2NSw4NzAwMTU3NTYsLTQyNT
-E1Nzc4MCwtMjA0ODQ2NjEyNl19
+eyJoaXN0b3J5IjpbLTEyNDk3MTQ1NDksODcwMDE1NzU2LC00Mj
+UxNTc3ODAsLTIwNDg0NjYxMjZdfQ==
 -->
