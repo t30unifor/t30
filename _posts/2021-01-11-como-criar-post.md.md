@@ -27,7 +27,7 @@ title: Como criar uma postagem
 ## Como se organizar?
 Escreva assim para criar sutítulos como o que você vê acima
 `## Como se organizar`
-{% include info.html text="Use uma hashtag para títulos e duas para sutítulos e três para um sub sub título %}
+{% include info.html text="Use uma hashtag para títulos e duas para sutítulos e três para um sub sub título" %}
 
 Como criar listas?
 
