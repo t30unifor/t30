@@ -41,12 +41,12 @@ E pronto! A partir de agora você pode usar a biblioteca online e outros serviç
 
 ## Nomenclatura
 
-AIS = Ações Integradas de Saúde 
-HAB/ LH= Habilidades Medicas/ Laboratorio de Habilidades
-LMF = Laboratorio Morfofuncional 
-GT = Grupo Tutorial
-LCB = Laboratorio de Ciências Basicas
-LABinfo = Laboratorio de Informática
+- AIS = Ações Integradas de Saúde 
+- HAB/ LH= Habilidades Medicas/ Laboratorio de Habilidades
+- LMF = Laboratorio Morfofuncional 
+- **GT** = Grupo Tutorial
+- **LCB** = Laboratorio de Ciências Basicas
+- LABinfo = Laboratorio de Informática
 
 AIS consiste, em sua maior parte, em aulas com discussão de textos que o professor fornece em sala. Também temos trabalhos que exigem visitas a postos de saúde, entrevistas de pessoas em alguns bairros mais carentes e observação de consultas! É o módulo que trata de Medicina da Família e da Comunidade.
 
@@ -60,7 +60,7 @@ LCB consiste em práticas laboratoriais diversas, acontece somente algumas vezes
 
 LABInfo consiste em aulas no laboratório de informática ensinando a mexer com a Biblioteca digital, a buscar artigos, a lidar com tecnologias voltadas ao curso, também acontece esporadicamente. No terceiro andar do NAMI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDkyMTI3NSwtMTA5MTIwNTc4OCwxMT
+eyJoaXN0b3J5IjpbMTY2OTgwMjE0NSwtMTA5MTIwNTc4OCwxMT
 E3NTM1NTMzLDEzNDcxMTIxMjcsODcwMDE1NzU2LC00MjUxNTc3
 ODAsLTIwNDg0NjYxMjZdfQ==
 -->
