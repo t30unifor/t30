@@ -5,7 +5,7 @@ title: Tutoriais
 permalink: /tutoriais/
 ---
 
-## Tutoriais Essenciais
+## Perguntas Frequentes
 
  1. Eu ainda não tenho acesso ao Unifor Online. E agora?  
 
@@ -36,7 +36,7 @@ E pronto! A partir de agora você pode usar a biblioteca online e outros serviç
 
 {% include info.html text="O email da Unifor funciona como um email gmail qualquer." %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEyMDU3ODgsMTExNzUzNTUzMywxMz
-Q3MTEyMTI3LDg3MDAxNTc1NiwtNDI1MTU3NzgwLC0yMDQ4NDY2
-MTI2XX0=
+eyJoaXN0b3J5IjpbLTE4MjE4NTYwNTQsLTEwOTEyMDU3ODgsMT
+ExNzUzNTUzMywxMzQ3MTEyMTI3LDg3MDAxNTc1NiwtNDI1MTU3
+NzgwLC0yMDQ4NDY2MTI2XX0=
 -->
