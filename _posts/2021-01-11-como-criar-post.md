@@ -36,6 +36,7 @@ Como criar listas?
 	- Subitem
 		- outro subitem
 
+
 ```
  - Pode ser lista desse formato
  - Para uma lista simples
@@ -46,6 +47,7 @@ Como criar listas?
 1. Ou listas numeradas
 2. Dessa forma
 
+
 ```
 1. Ou listas numeradas
 2. Dessa forma
@@ -53,19 +55,14 @@ Como criar listas?
 
 ## Formatação
 *Itálico* `*Itálico*`
+
 __Negrito__ `__Negrito__ `
+
 >Citaçoes `>Citaçoes`
 
 ### Links
 Um link normal [aqui](https://unifor.br)
 `Um link normal [aqui](https://unifor.br)`
 
-Explicações
-: assim
-
-```
-Explicações
-: assim
-```
 
 Para concluir, salve o arquivo e envie para algum organizador do site e as formatações finais serão feitas para a publicação!
