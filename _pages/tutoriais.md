@@ -1,9 +1,11 @@
 ---
-toc: true
 layout: page
 title: Tutoriais
 permalink: /tutoriais/
 ---
+Seções dessa página
+- [Perguntas Frequentes](#perguntas-frequentes)
+- [Email da Unifor](#email-da-unifor)
 
 ## Perguntas Frequentes
 
@@ -36,7 +38,7 @@ E pronto! A partir de agora você pode usar a biblioteca online e outros serviç
 
 {% include info.html text="O email da Unifor funciona como um email gmail qualquer." %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE4NTYwNTQsLTEwOTEyMDU3ODgsMT
-ExNzUzNTUzMywxMzQ3MTEyMTI3LDg3MDAxNTc1NiwtNDI1MTU3
-NzgwLC0yMDQ4NDY2MTI2XX0=
+eyJoaXN0b3J5IjpbMTQ3MTQyNjgxLC0xMDkxMjA1Nzg4LDExMT
+c1MzU1MzMsMTM0NzExMjEyNyw4NzAwMTU3NTYsLTQyNTE1Nzc4
+MCwtMjA0ODQ2NjEyNl19
 -->
