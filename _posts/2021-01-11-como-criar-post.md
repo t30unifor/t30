@@ -35,18 +35,22 @@ Como criar listas?
  - Para uma lista simples
 	- Subitem
 		- outro subitem
+
 ```
  - Pode ser lista desse formato
  - Para uma lista simples
 	- Subitem
-		- outro subitem
+	- outro subitem
+```
+
+1. Ou listas numeradas
+2. Dessa forma
+
 ```
 1. Ou listas numeradas
 2. Dessa forma
 ```
-1. Ou listas numeradas
-2. Dessa forma
-```
+
 ## Formatação
 *Itálico* `*Itálico*`
 __Negrito__ `__Negrito__ `
@@ -58,6 +62,7 @@ Um link normal [aqui](https://unifor.br)
 
 Explicações
 : assim
+
 ```
 Explicações
 : assim
