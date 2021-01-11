@@ -48,19 +48,21 @@ E pronto! A partir de agora você pode usar a biblioteca online e outros serviç
 - **LCB** = Laboratorio de Ciências Basicas
 - LABinfo = Laboratorio de Informática
 
-AIS consiste, em sua maior parte, em aulas com discussão de textos que o professor fornece em sala. Também temos trabalhos que exigem visitas a postos de saúde, entrevistas de pessoas em alguns bairros mais carentes e observação de consultas! É o módulo que trata de Medicina da Família e da Comunidade.
+==AIS== consiste, em sua maior parte, em aulas com discussão de textos que o professor fornece em sala. Também temos trabalhos que exigem visitas a postos de saúde, entrevistas de pessoas em alguns bairros mais carentes e observação de consultas! É o módulo que trata de Medicina da Família e da Comunidade.
 
-HAB é o módulo em que aprendemos a fazer coisas práticas da Medicina, como aferir pressão, realizar punção venosa, fazer consultas, entre outros. São aulas bem interativas, e as professoras fazem varias atividades além das que são cobradas em avaliações, como dinâmicas de psicologia, por exemplo No SS do NAMI. >>Precisa de Jaleco<<
+==HAB== é o módulo em que aprendemos a fazer coisas práticas da Medicina, como aferir pressão, realizar punção venosa, fazer consultas, entre outros. São aulas bem interativas, e as professoras fazem varias atividades além das que são cobradas em avaliações, como dinâmicas de psicologia, por exemplo No SS do NAMI.
+{% include alert.html text="Precisa de Jaleco!" %}
 
-LMF é dividido em duas partes na semana: em um só horário, é dada aula teórica de Histologia e Anatomia. Quando há dois horários, é dada aula prática de Histologia e Anatomia, com uso de microscópios e peças anatômicas, e de Radiologia. No terceiro andar do NAMI >>Precisa de jaleco<< 
 
-GT acontece nas segundas e quintas, nos dois horários da manhã. Uma pessoa do grupo se voluntaria pra anotar tudo que é discutido, outra se voluntaria pra coordenar a discussão. Consiste em analisar casos (pequenas histórias), criar uma pergunta acerca desses casos pra nortear as discussões, discutir com o grupo sobre tudo o que se sabe a respeito do tema discutido, pelo que se aprendeu no ensino médio, pelo que se viu na TV, pelo que o senso comum ensinou, etc. Sistematizar tudo que foi discutido e, no fim, criar objetivos de estudo para levar pra casa, como “Explicar qual o papel da bile na digestão” ou “Analisar como ocorre o impulso nervoso”. No outro encontro, o grupo irá discutir o que aprendeu com esses objetivos. Todas as discussões são guiadas por um tutor, que é um professor, que vai avaliar se você aprendeu todos os objetivos, como você se porta no grupo, etc. No terceiro andar do NAMI 
+==LMF== é dividido em duas partes na semana: em um só horário, é dada aula teórica de Histologia e Anatomia. Quando há dois horários, é dada aula prática de Histologia e Anatomia, com uso de microscópios e peças anatômicas, e de Radiologia. No terceiro andar do NAMI >>Precisa de jaleco<< 
 
-LCB consiste em práticas laboratoriais diversas, acontece somente algumas vezes no mês. Geralmente no Bloco F, mas varia, e será informado o local pra vocês >> Precisa de Jaleco <<
+==GT== acontece nas segundas e quintas, nos dois horários da manhã. Uma pessoa do grupo se voluntaria pra anotar tudo que é discutido, outra se voluntaria pra coordenar a discussão. Consiste em analisar casos (pequenas histórias), criar uma pergunta acerca desses casos pra nortear as discussões, discutir com o grupo sobre tudo o que se sabe a respeito do tema discutido, pelo que se aprendeu no ensino médio, pelo que se viu na TV, pelo que o senso comum ensinou, etc. Sistematizar tudo que foi discutido e, no fim, criar objetivos de estudo para levar pra casa, como “Explicar qual o papel da bile na digestão” ou “Analisar como ocorre o impulso nervoso”. No outro encontro, o grupo irá discutir o que aprendeu com esses objetivos. Todas as discussões são guiadas por um tutor, que é um professor, que vai avaliar se você aprendeu todos os objetivos, como você se porta no grupo, etc. No terceiro andar do NAMI 
 
-LABInfo consiste em aulas no laboratório de informática ensinando a mexer com a Biblioteca digital, a buscar artigos, a lidar com tecnologias voltadas ao curso, também acontece esporadicamente. No terceiro andar do NAMI
+==LCB== consiste em práticas laboratoriais diversas, acontece somente algumas vezes no mês. Geralmente no Bloco F, mas varia, e será informado o local pra vocês >> Precisa de Jaleco <<
+
+==LABInfo== consiste em aulas no laboratório de informática ensinando a mexer com a Biblioteca digital, a buscar artigos, a lidar com tecnologias voltadas ao curso, também acontece esporadicamente. No terceiro andar do NAMI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTgwMjE0NSwtMTA5MTIwNTc4OCwxMT
-E3NTM1NTMzLDEzNDcxMTIxMjcsODcwMDE1NzU2LC00MjUxNTc3
-ODAsLTIwNDg0NjYxMjZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjA0MzQwOTksLTEwOTEyMDU3ODgsMT
+ExNzUzNTUzMywxMzQ3MTEyMTI3LDg3MDAxNTc1NiwtNDI1MTU3
+NzgwLC0yMDQ4NDY2MTI2XX0=
 -->
