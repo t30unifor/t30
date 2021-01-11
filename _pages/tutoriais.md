@@ -3,6 +3,7 @@ layout: page
 title: Tutoriais
 permalink: /tutoriais/
 ---
+
 ## Tutoriais Essenciais
 
  1. Eu ainda não tenho acesso ao Unifor Online. E agora?  
@@ -34,6 +35,6 @@ Vamos lá:
 
 {% include info.html text="O email da Unifor funciona como um email gmail qualquer." %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4MzMwMDQ3LDEzNDcxMTIxMjcsODcwMD
-E1NzU2LC00MjUxNTc3ODAsLTIwNDg0NjYxMjZdfQ==
+eyJoaXN0b3J5IjpbNDc2MDM3OTMsMTM0NzExMjEyNyw4NzAwMT
+U3NTYsLTQyNTE1Nzc4MCwtMjA0ODQ2NjEyNl19
 -->
