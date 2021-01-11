@@ -18,7 +18,7 @@ permalink: /tutoriais/
 	A turma em si de Medicina tem 100 alunos. Algumas aulas a Unifor organiza em 4 turmas de 25.
  1. O que são Grupos Tutoriais?  
 
-	 Grupos específicos de trabalho no sistema PBL (clique aqui para saber mais), com 10 pessoas por grupo. 
+	 Grupos específicos de trabalho no sistema PBL ([clique aqui](https://www.soulmedicina.com.br/noticia/25/conheca-o-metodo-pbl-na-medicina-/) para saber mais), com 10 pessoas por grupo. 
  1. Qual o início do ano letivo?  
 	
 	 Dia 01 de fevereiro de 2021.
@@ -32,11 +32,11 @@ Vamos lá:
 1. Digite o nome de email que você quiser. A sua conta nome@edu.unifor.br vai estar disponível pelo [Gmail](gmail.com) e funciona como qualquer outra conta google. A senha é a mesma da unifor online.
 1. A partir desse momento, seu email do Unifor Online vai ser o seu email unifor, então eu recomendo você adicionar essa conta de email onde você normalmente checa seu email, seja pelo celular, seja pelo conputador.
 {% include alert.html text="Agora, o seu email para o Unifor Online será o que você criou para sua conta. Para evitar confusões, adicione esse email no seu app de email ou abra-o com frequência." %}
-1. E pronto! A partir de agora você pode usar a biblioteca online e outros serviços.
+E pronto! A partir de agora você pode usar a biblioteca online e outros serviços.
 
 {% include info.html text="O email da Unifor funciona como um email gmail qualquer." %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDE4MzEzMSwxMTE3NTM1NTMzLDEzND
-cxMTIxMjcsODcwMDE1NzU2LC00MjUxNTc3ODAsLTIwNDg0NjYx
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTEyMDU3ODgsMTExNzUzNTUzMywxMz
+Q3MTEyMTI3LDg3MDAxNTc1NiwtNDI1MTU3NzgwLC0yMDQ4NDY2
+MTI2XX0=
 -->
