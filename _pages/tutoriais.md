@@ -3,7 +3,7 @@ layout: page
 title: Tutoriais
 permalink: /tutoriais/
 ---
-[TOC]
+
 ## Tutoriais Essenciais
 
  1. Eu ainda não tenho acesso ao Unifor Online. E agora?  
