@@ -48,7 +48,7 @@ E pronto! A partir de agora você pode usar a biblioteca online e outros serviç
 - **LCB** = Laboratorio de Ciências Basicas
 - LABinfo = Laboratorio de Informática
 
-*AIS* consiste, em sua maior parte, em aulas com discussão de textos que o professor fornece em sala. Também temos trabalhos que exigem visitas a postos de saúde, entrevistas de pessoas em alguns bairros mais carentes e observação de consultas! É o módulo que trata de Medicina da Família e da Comunidade.
+*AIS* consiste, em sua maior parte, em aulas com discussão de textos que o professor fornece em sala. Também temos trabalhos que exigem visitas a postos de saúde, entrevistas de pessoas em alguns bairros mais carentes e observação de consultas! É o módulo que trata de Medicina da Família e da Comunidade.  
 
 *HAB* é o módulo em que aprendemos a fazer coisas práticas da Medicina, como aferir pressão, realizar punção venosa, fazer consultas, entre outros. São aulas bem interativas, e as professoras fazem varias atividades além das que são cobradas em avaliações, como dinâmicas de psicologia, por exemplo No SS do NAMI.
 {% include alert.html text="Precisa de Jaleco!" %}
@@ -66,7 +66,7 @@ E pronto! A partir de agora você pode usar a biblioteca online e outros serviç
 *LABInfo* consiste em aulas no laboratório de informática ensinando a mexer com a Biblioteca digital, a buscar artigos, a lidar com tecnologias voltadas ao curso, também acontece esporadicamente. 
 {% include info.html text="No terceiro andar do NAMI." %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzU5NjUxOSwtMTA5MTIwNTc4OCwxMT
-E3NTM1NTMzLDEzNDcxMTIxMjcsODcwMDE1NzU2LC00MjUxNTc3
-ODAsLTIwNDg0NjYxMjZdfQ==
+eyJoaXN0b3J5IjpbMjU2MzU4ODIzLC0xMDkxMjA1Nzg4LDExMT
+c1MzU1MzMsMTM0NzExMjEyNyw4NzAwMTU3NTYsLTQyNTE1Nzc4
+MCwtMjA0ODQ2NjEyNl19
 -->
