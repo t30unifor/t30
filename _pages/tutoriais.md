@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 title: Tutoriais
 permalink: /tutoriais/
@@ -35,6 +36,7 @@ Vamos lá:
 
 {% include info.html text="O email da Unifor funciona como um email gmail qualquer." %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzUzNTUzMywxMzQ3MTEyMTI3LDg3MD
-AxNTc1NiwtNDI1MTU3NzgwLC0yMDQ4NDY2MTI2XX0=
+eyJoaXN0b3J5IjpbLTk3MDE4MzEzMSwxMTE3NTM1NTMzLDEzND
+cxMTIxMjcsODcwMDE1NzU2LC00MjUxNTc3ODAsLTIwNDg0NjYx
+MjZdfQ==
 -->
