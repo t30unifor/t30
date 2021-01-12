@@ -45,12 +45,12 @@ Como criar listas?
 ```
 
 1. Ou listas numeradas
-2. Dessa forma
+1. Dessa forma
 
 
 ```
 1. Ou listas numeradas
-2. Dessa forma
+1. Dessa forma
 ```
 
 ## Formatação
