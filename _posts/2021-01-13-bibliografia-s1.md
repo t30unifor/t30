@@ -40,3 +40,17 @@ title: Bibliografias e links dos livros
 Sem dados bibliográficos
 
 ## B104 - Estrut, Sistemas E Funções I
+
+| Nome                                                                                    | Autor                          | Link online?                                                                                                            | Categoria |
+|-----------------------------------------------------------------------------------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------|
+| Bioética, direito e medicina.                                                           | Claudio Cohen                  | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788520458587)                                       | Básica    |
+| Tratado de medicina de família e comunidade:princípios,  formação  e  prática.  2.  ed. | GUSSO, Gustavo                 | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788582715369)                                       | Básica    |
+| Tratado de fisiologia médica                                                            | GUYTON, Arthur                 | Não                                                                                                                     | Básica    |
+| Histologia básica                                                                       | JUNQUEIRA, Luiz                | Não                                                                                                                     | Básica    |
+| Neuroanatomia funcional                                                                 | MACHADO, Angelo B              | Não                                                                                                                     | Básica    |
+| Tratado de saúde coletiva                                                               | CAMPOS, Gastão Wagner de Sousa | [Arquivos USP](https://edisciplinas.usp.br/pluginfile.php/2476982/mod_resource/content/3/21_TRATADO_SAUDE_COLETIVA.pdf) | Clássica  |
+| Farmacologia básica e clínica                                                           | KATZUNG, Bertram               | [Biblioteca Digital](https://integrada.minhabiblioteca.com.br/books/9788580555974)                                      | Clássica  |
+| Introdução à radiologia                                                                 | MARCHIORI, Edso                | [Biblioteca Digital](https://integrada.minhabiblioteca.com.br/books/978-85-277-2702-0)                                  | Clássica  |
+| Anatomia Orientada para Clínica                                                         | MOORE                          | [Biblioteca Digital](https://integrada.minhabiblioteca.com.br/books/9788527734608)                                      | Clássica  |
+| Atlas de anatomia humana                                                                | Netter                         | [Biblioteca Digital](https://integrada.minhabiblioteca.com.br/books/9788595150553)                                      | Clássica  |
+| Ross histologia: texto e atlas: correlações com biologia celular e molecular            | ROSS                           | [Biblioteca Digital](https://integrada.minhabiblioteca.com.br/books/9788527729888)                                      | Clássica  |
