@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: Bibliografias postadas das aulas B101 à B104.
+description: Bibliografias postadas da aula B101 à B104.
 categories: [bibliografia]
 title: Bibliografia S1
 ---
