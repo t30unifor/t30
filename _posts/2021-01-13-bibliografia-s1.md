@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: Bibliografias postadas das aula B101 à B104.
 categories: [bibliografia]
-title: Bibliografias e links dos livros
+title: Bibliografia S1
 ---
 
 ## B101 - Introdução ao Estudo da Medicina
