@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: Bibliografias postadas das aula B101 à B104.
 categories: [bibliografia]
-title: Bibliorafias e links dos livros
+title: Bibliografias e links dos livros
 ---
 
 ## B101 - Introdução ao Estudo da Medicina
@@ -34,3 +34,9 @@ title: Bibliorafias e links dos livros
 | Medicina ambulatorial : condutas de atenção primária baseadas em evidências | DUNCAN, Bruce B et al                                                                                 | Não                                                                                                                          | Complementar |
 | Educação e promoção da saúde : teoria & prática                             | PELICIONI, Maria Cecília Focesi                                                                       | Não                                                                                                                          | Complementar |
 | Rouquayrol Epidemiologia & saúde                                            | Rouquayrol                                                                                            | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9786557830000)                                            | Complementar |
+
+## B103 - Des Pessoal Profissional I
+
+Sem dados bibliográficos
+
+## B104 - Estrut, Sistemas E Funções I
