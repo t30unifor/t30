@@ -4,7 +4,6 @@ layout: post
 description: Bibliografias postadas das aula B101 à B104.
 categories: [bibliografia]
 title: Bibliorafias e links dos livros
-comments
 ---
 
 ## B101 - Introdução ao Estudo da Medicina
