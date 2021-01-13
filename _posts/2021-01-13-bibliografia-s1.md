@@ -1,0 +1,36 @@
+---
+toc: true
+layout: post
+description: Bibliografias postadas das aula B101 à B104.
+categories: [bibliografia]
+title: Bibliorafias e links dos livros
+---
+
+## B101 - Introdução ao Estudo da Medicina
+
+| Nome                                                                                                   | Autor                      | Link online?                                                                                              | Categoria    |
+|--------------------------------------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------|--------------|
+| Higienização das mãos em serviços de saúde                                                             | ANVISA                     | [Sim](https://bvsms.saude.gov.br/bvs/publicacoes/seguranca_paciente_servicos_saude_higienizacao_maos.pdf) | Básica       |
+| Bioética, direito e medicina                                                                           | Claudio Cohen              | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788520458587)                         | Básica       |
+| Anatomia básica dos sistemas orgânicos : com a descrição dos ossos, junturas, músculos,vasos e nervos. | Jose Geraldo dangelo       | Não                                                                                                       | Básica       |
+| Comentários ao Código de Ética Médica                                                                  | Genival Veloso França      | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788527735247)                         | Básica       |
+| Histologia básica                                                                                      | Luis Junquera              | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/#/books/9788527732178/cfi/6/2!/4/2/2@0:0)    | Básica       |
+| Introdução à radiologia                                                                                | Edson Marchiori            | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/978-85-277-2702-0)                     | Complementar |
+| Fisiologia do exercício                                                                                | Marilia dos Santos Andrade | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788520461815)                         | Complementar |
+| Anatomia orientada para clínica                                                                        | MOORE                      | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788527734608)                         | Clássica     |
+| Atlas de anatomia humana                                                                               | Netter                     | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788595150553)                         | Clássica     |
+| Ross histologia: texto e atlas: correlações com biologia celular e molecular                           | ROSS                       | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788527729888)                         | Clássica     |
+
+## B102 - Ações E Práticas Int Saúde I
+
+| Nome                                                                        | Autor                                                                                                 | Link online?                                                                                                                 | Categoria    |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Tratado de Saúde Coletiva                                                   | CAMPOS, Gastão Wagner de Sousa                                                                        | [Biblioteca Online](https://edisciplinas.usp.br/pluginfile.php/2476982/mod_resource/content/3/21_TRATADO_SAUDE_COLETIVA.pdf) | Básica       |
+| Tratado de Medicina de Familia e Comunidade                                 | GUSSO, Gustavo                                                                                        | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/#/books/9788582715369/cfi/6/2!/4/2@0:0)                         | Básica       |
+| Medicina centrada na pessoa: transformando o método clínico                 | STEWART, Moira ; BROWN, Judith Belle (autor) ; WESTON, W. Wayne (autor) ; MCWHINNEY, Ian R. (autor ). | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/#/books/9788582714256/cfi/6/2!/4/2/2@0:0.0699)                  | Básica       |
+| Políticas e sistema de saúde no Brasil. 2. ed                               | GIOVANELLA, Lígia(Org.) et al.                                                                        | [DOI - Acesso CAPES](https://doi.org/10.7476/9788575413494)                                                                  | Básica       |
+| Epidemiologia. 2. ed                                                        | Roberto Medronho                                                                                      | Não                                                                                                                          | Básica       |
+| Bioética, direito e medicina                                                | COHEN, Claudio                                                                                        | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788520458587)                                            | Complementar |
+| Medicina ambulatorial : condutas de atenção primária baseadas em evidências | DUNCAN, Bruce B et al                                                                                 | Não                                                                                                                          | Complementar |
+| Educação e promoção da saúde : teoria & prática                             | PELICIONI, Maria Cecília Focesi                                                                       | Não                                                                                                                          | Complementar |
+| Rouquayrol Epidemiologia & saúde                                            | Rouquayrol                                                                                            | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9786557830000)                                            | Complementar |
