@@ -6,9 +6,9 @@ categories: [tutoriais]
 title: Periódicos... e agora?
 ---
 
-Então, você tem um artigo interessante ou obrigatório para ler, ou simplesmente quer ter acesso à última edição de um "Medical Journal" ou Periódico Médico. Como ter acesso pela UNIFOR?
+Então, você tem um artigo interessante ou obrigatório para ler, ou simplesmente quer ter acesso à última edição de um *Medical Journal* (Periódico Médico). Como ter acesso pela UNIFOR?
 
-# Eu já tenho um artigo selecionado
+# Seção A: Eu já tenho um artigo selecionado
 
 ## Opção 1: Busca Integrada: Periódicos
 
@@ -36,6 +36,6 @@ O que é o CAPES? É uma agência governamental que coordena a Comunidade Acadê
 
 {% include alert.html text="Não se esqueça do 0 antes da matrícula!" %}
 
-# Eu quero ler um periódico médico
+# Seção B: Eu quero ler um periódico médico
 
 ## Opção 1: Open Access

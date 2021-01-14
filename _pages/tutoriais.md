@@ -7,6 +7,7 @@ Seções dessa página
 - [Perguntas Frequentes](#perguntas-frequentes)
 - [Email da Unifor](#email-da-unifor)
 - [Nomenclatura](#nomenclatura)
+- [Periódicos](#periódicos)
 
 ## Perguntas Frequentes
 
@@ -21,9 +22,9 @@ Seções dessa página
 	A turma em si de Medicina tem 100 alunos. Algumas aulas a Unifor organiza em 4 turmas de 25.
  1. O que são Grupos Tutoriais?  
 
-	 Grupos específicos de trabalho no sistema PBL ([clique aqui](https://www.soulmedicina.com.br/noticia/25/conheca-o-metodo-pbl-na-medicina-/) para saber mais), com 10 pessoas por grupo. 
+	 Grupos específicos de trabalho no sistema PBL ([clique aqui](https://www.soulmedicina.com.br/noticia/25/conheca-o-metodo-pbl-na-medicina-/) para saber mais), com 10 pessoas por grupo.
  1. Qual o início do ano letivo?  
-	
+
 	 Dia 01 de fevereiro de 2021.
 
 ## Email da Unifor
@@ -41,9 +42,9 @@ E pronto! A partir de agora você pode usar a biblioteca online e outros serviç
 
 ## Nomenclatura
 
-- AIS = Ações Integradas de Saúde 
+- AIS = Ações Integradas de Saúde
 - HAB/ LH= Habilidades Medicas/ Laboratorio de Habilidades
-- LMF = Laboratorio Morfofuncional 
+- LMF = Laboratorio Morfofuncional
 - **GT** = Grupo Tutorial
 - **LCB** = Laboratorio de Ciências Basicas
 - LABinfo = Laboratorio de Informática
@@ -63,10 +64,9 @@ E pronto! A partir de agora você pode usar a biblioteca online e outros serviç
 *LCB* consiste em práticas laboratoriais diversas, acontece somente algumas vezes no mês. Geralmente no Bloco F, mas varia, e será informado o local pra vocês.
 {% include alert.html text="Precisa de Jaleco!" %}
 
-*LABInfo* consiste em aulas no laboratório de informática ensinando a mexer com a Biblioteca digital, a buscar artigos, a lidar com tecnologias voltadas ao curso, também acontece esporadicamente. 
+*LABInfo* consiste em aulas no laboratório de informática ensinando a mexer com a Biblioteca digital, a buscar artigos, a lidar com tecnologias voltadas ao curso, também acontece esporadicamente.
 {% include info.html text="No terceiro andar do NAMI." %}
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MzU4ODIzLC0xMDkxMjA1Nzg4LDExMT
-c1MzU1MzMsMTM0NzExMjEyNyw4NzAwMTU3NTYsLTQyNTE1Nzc4
-MCwtMjA0ODQ2NjEyNl19
--->
+
+## Periódicos
+
+[Clique aqui](https://t30unifor.tk/tutoriais/2021/01/13/Periodicos-e-agora.html) para ver o tutorial completo!
