@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: t30unifor.tk
+Token: 5f2072b3cc7fdaf6447ea3e2cab67ddacdf74cade5aa96eb7e7e492171530c05
