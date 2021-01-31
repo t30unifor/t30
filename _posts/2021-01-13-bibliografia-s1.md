@@ -37,7 +37,17 @@ title: Bibliografia S1
 
 ## B103 - Des Pessoal Profissional I
 
-Sem dados bibliográficos
+| Nome                                                                                  | Autor                                                                                                 | Link online?                                                                                                | Categoria    |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------|
+| Psicologia médica na prática clínica. Rio de Janeiro: MedBook, 2018.                  | MACHADO, Leonardo ; PEREGRINO, Antonio                                                                | Biblioteca Online                                                                                           | Básica       |
+| Psicologia médica: abordagem integral do processo saúde-doença. Porto Alegre: ArtMed, | MARCO, Mario Alfredo de                                                                               | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788536327556)                           | Básica       |
+| Semiologia médica                                                                     | PORTO                                                                                                 | Biblioteca Online                                                                                           | Básica       |
+| Rouquayrol Epidemiologia & saúde                                                      | ROUQUAYROL                                                                                            | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9786557830000)                           | Clássica     |
+| Medicina centrada na pessoa: transformando o método clínico.                          | STEWART, Moira ; BROWN, Judith Belle (autor) ; WESTON, W. Wayne (autor) ; MCWHINNEY, Ian R. (autor ). | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/#/books/9788582714256/cfi/6/2!/4/2/2@0:0.0699) | Clássica     |
+| Bioética, direito e medicina.                                                         | Claudio Cohen                                                                                         | [Biblioteca Online](https://integrada.minhabiblioteca.com.br/books/9788520458587)                           | Complementar |
+| Medicina ambulatorial : condutas de atenção primária baseadas em evidências           | DUNCAN, Bruce B et al                                                                                 | Não                                                                                                         | Complementar |
+| Habilidades de comunicação com pacientes e famílias                                   | LEITE, Alvaro Jorge Madeiro                                                                           | Não                                                                                                         | Complementar |
+| Educação e promoção da saúde : teoria & prática                                       | PELICIONI, Maria Cecília Focesi                                                                       | [Biblioteca Digital](https://integrada.minhabiblioteca.com.br/#/books/9788527734745/)                       | Complementar |
 
 ## B104 - Estrut, Sistemas E Funções I
 
